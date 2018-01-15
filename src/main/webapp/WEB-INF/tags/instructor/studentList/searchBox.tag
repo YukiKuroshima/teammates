@@ -21,7 +21,7 @@
           </div>
           <div class="col-md-2 nav">
             <div class="form-group">
-              <button id="buttonSearch" class="btn btn-primary" type="submit" value="Search">
+              <button id="buttonSearch" class="btn btn-primary center-block" type="submit" value="Search">
                 <span class="glyphicon glyphicon-search"></span> Find students
               </button>
             </div>
